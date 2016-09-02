@@ -10,7 +10,7 @@ public class IsHotNewsSpecification extends AbstractSpecification<News> {
 
     public boolean isSatisfiedBy(News news){
 
-        //if news == niet meer dan zoveel dagen oud then
+        //if news == no more then so many days old  then
 
         return true;
     }
